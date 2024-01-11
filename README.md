@@ -8,13 +8,14 @@
 ## about the project
 
 [Video walkthrough](https://drive.google.com/file/d/1nF0ZAIdJPhFFUPnkH_A4kJAALLV5KkJL/view?usp=sharing)
-0:00 introduce the different files
-1:11 talk through the readme, expected functionality, and limitations of the system
-5:40 look at document-store.ts
-7:20 look at api.ts. State the API end points, and discuss data store dependency injection
-9:50 look at test cases
-19:30 look at the logic
-27:50 wrapup
+
+- 0:00 introduce the different files
+- 1:11 talk through the readme, expected functionality, and limitations of the - system
+- 5:40 look at document-store.ts
+- 7:20 look at api.ts. State the API end points, and discuss data store dependency injection
+- 9:50 look at test cases
+- 19:30 look at the logic
+- 27:50 wrapup
 
 api.ts represents a mockup of a google docs server, which exposes the endpoints:
 
